@@ -1,0 +1,12 @@
+{
+  "name": "missy-card-server",
+  "version": "1.0.0",
+  "description": "Missy Card Game Server for Zeabur",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.17.0"
+  }
+}
